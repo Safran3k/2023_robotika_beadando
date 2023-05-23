@@ -62,4 +62,6 @@ A projektünk egy időjárás állomás, amely különböző pillanatnyi időjá
    * Kiírja a pára tartalmát
    * (A program korlátoltságai miatt a páratartalom mérő eszköz helyett egy talajnedvességmérőt használunk)
 
+#### 5.2 Állapot átmenet gráf
+![CADRajz](https://github.com/Safran3k/2023_robotika_beadando/blob/main/img/%C3%81llapot%C3%A1tmenetRajz.png)
   
