@@ -64,4 +64,8 @@ A projektünk egy időjárás állomás, amely különböző pillanatnyi időjá
 
 #### 5.2 Állapot átmenet gráf
 ![CADRajz](https://github.com/Safran3k/2023_robotika_beadando/blob/main/img/%C3%81llapot%C3%A1tmenetRajz.png)
+
+![CADRajz](https://github.com/Safran3k/2023_robotika_beadando/blob/main/img/%C3%81llapot%C3%A1tmenet1.png)
+
+![CADRajz](https://github.com/Safran3k/2023_robotika_beadando/blob/main/img/%C3%81llapot%C3%A1tmenet2.png)
   
